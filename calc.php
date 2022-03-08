@@ -13,7 +13,17 @@
 <button type="submit" name="submit">Calculate</button> 
 </form>
 
+<?php
+  if (isset($_GET['submit'])) {
+    $results1 = $_GET['num1'];
+    $results2 = $_GET['num2'];
+    $operator = $_GET['operator'];
+    
+        
 
+    }
+
+?>
 
 
 </body>
