@@ -18,10 +18,13 @@
     $results1 = $_GET['num1'];
     $results2 = $_GET['num2'];
     $operator = $_GET['operator'];
-    
-        
+    switch ($operator) {
+      case Add:
+        echo $results1 + $results2;
+        break;
 
     }
+  }
 
 ?>
 
