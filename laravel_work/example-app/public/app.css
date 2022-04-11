@@ -1,4 +1,10 @@
 body {
-    background: navy;
-    color: antiquewhite;
+    color: rgb(154, 104, 4);
+}
+article {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
 }

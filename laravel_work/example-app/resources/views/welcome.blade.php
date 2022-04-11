@@ -2,11 +2,16 @@
 
 <title>My login</title>
 <link rel="stylesheet" href="/app.css">
-<script src="/app.js"></script>
+
 
 <body>
-    <h1> My login</h1>
-    <a href= "/article" >
-        <button>Home</button>
-    </a>
+    <h1> My Homepage</h1>
+    <article>
+        <h2>Log In</h2>
+        Username:<input></input> <br>
+        Email:<input></input> <br>
+        Password:<input></input> <br>
+        <button>Log in</button>
+        
+    </article>
 </body>
