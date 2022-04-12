@@ -7,9 +7,15 @@
     <title>The Story</title>
 </head>
 <body>
-<p> i'm just talking shi</p> 
-<a href= '/'>
-<button> go back </button>
-</a>   
+<p> to sign in enter your creditals bellow:</p> 
+<article>
+        <h2>SignUp</h2>
+        Username:  <input></input> <br>
+        Email:   <input></input> <br>
+        Password:  <input></input> <br>
+        confirm Password: <input></input> <br>
+        <a href="/login"><button>Signin</button> </a> <br>
+        <a href="/"> Already have creditals? Log in and get started! </a>
+    </article>
 </body>
 </html>
