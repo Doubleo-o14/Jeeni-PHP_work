@@ -11,7 +11,7 @@
         Username:<input></input> <br>
         Email:<input></input> <br>
         Password:<input></input> <br>
-        <button>Log in</button>
-        
+        <button>Log in</button> <br>
+        <a href="/register"> have no login details? sign up and make an account </a>
     </article>
 </body>

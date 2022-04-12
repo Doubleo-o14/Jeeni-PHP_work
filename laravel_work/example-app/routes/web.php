@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('Homepage');
 });
 
-Route::get('article', function () {
-    return view('article');
+Route::get('register', function () {
+    return view('register');
 });

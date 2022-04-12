@@ -7,7 +7,7 @@
     <title>The Story</title>
 </head>
 <body>
-<p> i'm just talking shit</p> 
+<p> i'm just talking shi</p> 
 <a href= '/'>
 <button> go back </button>
 </a>   
